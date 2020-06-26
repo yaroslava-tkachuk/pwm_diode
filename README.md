@@ -15,5 +15,5 @@ At the beginning of the program an interrupt vector is skipped (rjump). PB1 and 
 
 Next Timer0 PWM mode is cofigured to work in a fast mode. PB0 port (OC0A) is controlled by PWM.
 
-![Alt text]( yaroslava-tkachuk/pwm_diode_assembler/pwm_fast_mode.jpg?raw=true "Optional Title")
+![Alt text]( yaroslava-tkachuk/pwm_diode_assembler/pwm_fast_mode.png?raw=true "Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf")
 
