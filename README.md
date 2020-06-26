@@ -37,8 +37,8 @@ When register value is negative, OCR01 is set as 0 (0% of brightness).
 
 This program has been tested using a homemade Arduino-like board with ATmega8 processor (ATmega328p can be used with the same success).
 
-Here You can observe the beautiful blue shining of the diode controlled by PWM:
-https://youtu.be/nNTRR_2zkTk
+Here You can observe the beautiful blue shining controlled by PWM:
+<br>https://youtu.be/nNTRR_2zkTk
 
 P. S. The program has been slightly modified for the filming purposes: diode shining is changed gradually in a loop, so that there is no need to use buttons.
 
