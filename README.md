@@ -40,9 +40,9 @@ This program has been tested using a homemade Arduino-like board with ATmega8 pr
 Here You can observe the beautiful blue shining controlled by PWM:
 <br>https://youtu.be/nNTRR_2zkTk
 
-P. S. The program has been slightly modified for the filming purposes: diode shining is changed gradually in a loop, so that there is no need to use buttons.
-
 Enjoy!
+
+P. S. The program has been slightly modified for the filming purposes: diode shining is changed gradually in a loop, so that there is no need to use buttons.
 
 Sources:
 1. Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
