@@ -16,12 +16,12 @@ At the beginning of the program an interrupt vector is skipped (rjump). PB1 and 
 Next Timer0 PWM mode is cofigured to work in a fast mode. PB0 port (OC0A) is controlled by PWM.
 
 ![Alt text](./pwm_fast_mode.png?raw=true "Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf")
-
-(Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
+[Source 1]
 
 Timer0 prescaler value is set for 1024.
 
 ![Alt text](./timer.png?raw=true "Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf")
+[Source 1]
 
 Then the timer is configured. Initially, the brightness is set as 100% - OCR0A register is set as 256.
 
@@ -44,5 +44,6 @@ P. S. Program has been slightly modified for the filming purposes: diode shining
 
 Enjoy!
 
+Sources:
 
-
+1. Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
