@@ -42,7 +42,7 @@ Here You can observe the beautiful blue shining controlled by PWM:
 
 Enjoy!
 
-P. S. The program has been slightly modified for the filming purposes: diode shining is changed gradually in a loop, so that there is no need to use buttons.
+P.S. The program has been slightly modified for the filming purposes: diode shining is changed gradually in a loop, so that there is no need to use buttons.
 
 Sources:
 1. Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
